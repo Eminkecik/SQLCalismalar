@@ -1,2 +1,2 @@
 select @@VERSION
-sp_configure 'addd'
+sp_configure
